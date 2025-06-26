@@ -1,0 +1,30 @@
+ 
+.navigation{
+    margin-top: -40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logoImage {
+    height: 80px;
+    margin-left: 200px;
+}
+
+.navigation ul {
+    display: flex;
+    list-style: none;
+    gap: 35px;
+    letter-spacing: 3px;
+    margin-right: 180px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
